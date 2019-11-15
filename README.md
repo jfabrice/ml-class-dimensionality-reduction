@@ -22,7 +22,7 @@ cd ml-class-dimensionality-reduction
 conda create -n dimreductionenv python==3.7
 
 # Activate the environment
-## For Linux
+## For Linux / MAC
 source activate dimreductionenv
 ## For Windows
 activate dimreductionenv
