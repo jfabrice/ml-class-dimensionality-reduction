@@ -10,7 +10,7 @@ This repository contains course materials for my Machine Learning class on the t
 
 ### Option 1: Working with Google Colab
 
-To follow the notebooks with Google Colab, simply go to https://colab.research.google.com/. Import a new notebook from GitHub, search for "jfabrice" and open one of the notebooks of this class (ml-class-dimensionality-reduction). The first section of the notebook is there to initialize the environment from Google Colab.
+To follow the notebooks with Google Colab, simply go to https://colab.research.google.com/. Import a new notebook from GitHub, search for "jfabrice" and open one of the notebooks of this class (ml-class-dimensionality-reduction), for example dimensionality_reduction_class-empty.ipynb. Then click on "Copy to Drive" to be able to execute it. The first section of the notebook is there to initialize the environment from Google Colab.
 
 
 ### Option 2: Working locally - Setting up Anaconda environment
@@ -25,7 +25,7 @@ git clone https://github.com/jfabrice/ml-class-dimensionality-reduction.git
 cd ml-class-dimensionality-reduction
 
 # Create a new virtual environment
-conda create -n dimreductionenv python==3.7
+conda create -n dimreductionenv python==3.6
 
 # Activate the environment
 ## For Linux / MAC
